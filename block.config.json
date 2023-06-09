@@ -1,0 +1,21 @@
+{
+  "name": "athultest14",
+  "type": "package",
+  "blockId": "X7D_cp_1ic_ei9APUxwen",
+  "source": {
+    "https": "https://github.com/uttahb/athultest14.git",
+    "ssh": "git@github.com:uttahb/athultest14.git",
+    "branch": "block_athultest14"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "athultest14fn": {
+      "directory": "athultest14fn"
+    }
+  }
+}
